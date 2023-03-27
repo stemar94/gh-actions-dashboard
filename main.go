@@ -17,7 +17,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/cli/go-gh"
 	flag "github.com/spf13/pflag"
-	"github.com/vilmibm/actions-dashboard/util"
+	"github.com/stemar94/gh-actions-dashboard/util"
 )
 
 const defaultMaxRuns = 5
