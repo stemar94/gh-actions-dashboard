@@ -1,6 +1,6 @@
 module github.com/stengm/gh-actions-dashboard
 
-go 1.15
+go 1.20
 
 require (
 	github.com/charmbracelet/lipgloss v0.4.0
