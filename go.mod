@@ -1,4 +1,4 @@
-module github.com/vilmibm/actions-dashboard
+module github.com/stengm/gh-actions-dashboard
 
 go 1.15
 
